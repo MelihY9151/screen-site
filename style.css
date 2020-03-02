@@ -1,0 +1,160 @@
+.top-text{
+    text-align:right;
+    color:white;
+    padding:28px;
+    margin:-8px;
+    /*position: relative;*/
+    font-size:17px;
+    /*transition:color .5s; */
+    /*width:800px;*/
+}
+.box{
+    position: absolute;
+    background-color:#2c3e50;
+    width:100%;
+    height:60px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    text-align:right;
+    left:0px;
+    top:0px;
+
+}
+.logo-text{
+    text-align:left;
+    padding:12px;
+    /*margin:-4px;*/
+    position: relative;
+    font-size:22px;
+    color:white;
+    width:25px;
+    top:-43px;
+    left:20px;
+}
+
+.img{
+    margin:100px;
+    border: 4px solid black;
+    width:450px;
+   
+}
+
+.cap{
+    
+    position: absolute;
+    top: 1px;
+    left: -1px;
+    padding:10px;
+    color:white;
+    margin:1px;
+}
+.dropdown{
+    position:absolute;
+    top:24px;
+    right:1px;
+    padding:0px;
+    
+}
+/*need to do hover*/
+
+.login{
+   /*background-color:#A9A9A9;*/
+   background: rgba(128,128, 128, 0.3);
+   width:375px;
+   height:40px;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+   }
+
+
+.login-text{
+    color:black;
+    opacity:1;
+    text-align:center;
+    padding:8px;
+    font-size:18px;
+    
+}
+.white-box{
+    background:rgb(250,250,250);
+    text-align:center;
+    height:285px;
+    width:375px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    position :relative ;
+    left:600px;
+    bottom:300px;
+}
+.top-text:hover{
+    color:blue;
+    
+}
+.logo-text:hover{
+    color:blue;
+}
+/*.cap:hover{*/
+/*    color:blue;*/
+/*}*/
+/*.test{*/
+    /*text-align:right;*/
+/*    color:white;*/
+/*    padding:28px;*/
+/*    margin:-8px;*/
+    /*position: relative;*/
+/*    font-size:17px;*/
+/*}*/
+.sign-in{
+    text-align:center;
+    opacity:.5;
+    margin:12px;
+}
+.smallbox-one{
+    border: 4px solid grey;
+    opacity:.8;
+    width:325px;
+    height:40px;
+    position:relative;
+    left:625px;
+    bottom:525px;
+}
+
+.password{
+    text-align:center;
+    opacity:.5;
+    margin:12px;
+}
+.smallbox-two{
+    border: 4px solid grey;
+    opacity:.8;
+    width:325px;
+    height:40px;
+    position:relative;
+    left:625px;
+    bottom:505px;
+}
+.button{
+    position: relative;
+    background-color:rgb(44,62,80);
+    width:335px;
+    height:60px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    text-align:center;
+    left:625px;
+    bottom:499px;
+    opacity:1;
+    transition: opacity .5s;
+}
+.button2{
+    color:white;
+    padding:17px;
+    position:Relative;
+}
+.botton2:hover{
+    opacity:.5;
+}
