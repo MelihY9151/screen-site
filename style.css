@@ -158,3 +158,25 @@
 .botton2:hover{
     opacity:.5;
 }
+.bottom-text{
+    color:black;
+    opacity:.6;
+    font-size:14px;
+    bottom:10px;
+}
+.bottom{
+    text-align:center;
+    background-color:rgb(55,55,55,.1);
+    width:100%;
+    position:absolute;
+    
+}
+.link{
+    font-size:13px;
+    opacity:.6;
+}
+.links:hover{
+    text-decoration: underline;
+    
+    
+}
